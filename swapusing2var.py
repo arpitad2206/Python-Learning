@@ -1,0 +1,9 @@
+a=10
+b=20
+print("before a =",a)
+print("before b= ",b)
+a=a+b
+b=a-b
+a=a-b
+print("after a=",a)
+print("after b=",b)

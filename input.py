@@ -1,0 +1,6 @@
+_a=int(input("enter value of a "))
+_b=int(input("enter value of b"))
+print("addition of a+b",(_a+_b))
+print("multiplication of a*b",(_a*_b))
+print("division of a/b",(_a/_b))
+print("subtraction of a-b",(_a-_b))
